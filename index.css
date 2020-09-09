@@ -1,0 +1,34 @@
+#title{
+   text-align: center;
+}
+
+#img-div {
+   display: flex;
+   flex-flow: column;
+   align-items: center;
+   justify-content: center;
+}
+
+#img-caption {
+   padding-top: 20px;
+}
+
+#image {
+   display: block;
+   max-width: 75%;
+   max-height: 700px;
+   align-self: center;
+   border-radius: 10%;
+}
+
+#tribute-info {
+   margin: auto;
+   text-align: center;
+   width: 50%;
+   padding: 15px;
+}
+
+#tribute-link-container {
+   text-align: center;
+   padding: 25px;
+}
